@@ -1,3 +1,7 @@
+---
+typora-copy-images-to: upload
+---
+
 # zaoHua
 zaoHua game engine
 
@@ -5,7 +9,7 @@ zaoHua game engine
 
 ![Rust](https://www.bleepstatic.com/content/hl-images/2017/02/05/Rust.jpg)
 
-![zaoHua](/home/xiaoli/桌面/zaoHua/微信图片_20230507170653.jpg)
+![zaoHua](/home/xiaoli/桌面/zaoHua/zaoHua.jpg)
 
 # The game engine of ECS by rust.
 
